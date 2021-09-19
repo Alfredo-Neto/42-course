@@ -5,5 +5,6 @@ This is a super repository with subrepositories(called submodules) for each one 
 
 To clone this repo, use:
 ```git 
-git clone --recursive https://github.com/Alfredo-Neto/42-course.git alfredo_42_course ```
+git clone --recursive https://github.com/Alfredo-Neto/42-course.git alfredo_42_course
+```
 
